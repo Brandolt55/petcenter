@@ -1,3 +1,5 @@
+## Este foi um projeto real para uma empresa, o cliente me pediu uma programa para poder controlar seu estoque e que fosse bem simples de mexer
+
 # petcenter projeto Desktop- Back-end
 
 **Controle de Estoque para Agropecuária em Python**
