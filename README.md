@@ -1,5 +1,9 @@
 ## Este foi um projeto real para uma empresa, o cliente me pediu uma programa para poder controlar seu estoque e que fosse bem simples de mexer
 
+##video de demonstração do aplicativo:
+https://www.canva.com/design/DAFv9vdrB8U/AIJfsPlqCcGA5zq6W76JOw/edit?utm_content=DAFv9vdrB8U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
 # petcenter projeto Desktop- Back-end
 
 **Controle de Estoque para Agropecuária em Python**
